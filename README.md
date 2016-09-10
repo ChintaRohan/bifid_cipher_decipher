@@ -1,2 +1,20 @@
-# bifid_cipher_decipher
-A simple Bifid Cipher/Decipher written in C
+# Bifid Cipher/Decipher 1.0
+A simple Bifid Cipher/Decipher written in C.
+
+## Description
+
+The Bifid Cipher is a cipher which combines the Polybius square with transposition, and uses fractionation to achieve diffusion. 
+
+Simple but effective.
+
+It's open source, you can do any changes. It's a bit dirty and messy but works :)
+
+## Author
+
+**Andrea Losavio** - [facebook](https://www.facebook.com/andrea.losavio.7/)
+
+## Information
+
+Wikipedia page: https://en.wikipedia.org/wiki/Bifid_cipher
+
+You can find any further information in the main.c (comments)
