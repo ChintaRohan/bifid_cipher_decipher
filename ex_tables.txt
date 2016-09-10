@@ -1,0 +1,20 @@
+Normal use (6x6):
+
+abcdef
+ghijkl
+mnopqr
+stuvwx
+yz1234
+567890
+
+Webiste (7x7):
+
+abcdefg
+hijklmn
+opqrstu
+vwxyz12
+3456789
+0:/?-_;
+.=!><&%
+
+--- You can just copy & paste on your bifid cipher console when it asks you to "write your table", and click Enter. ---
