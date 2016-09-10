@@ -7,7 +7,9 @@ The Bifid Cipher is a cipher which combines the Polybius square with transpositi
 
 Simple but effective.
 
-It's open source, you can do any changes. It's a bit dirty and messy but works :)
+* It's open source, you can do any changes. It's a bit dirty and messy but works :)
+* You can cipher/dicipher how many times you want (the decrypted message won't be deciphered easily :D )
+* You can customize your table. Give it to your closest friend and start sending decrypted messages.
 
 P.S.: You cannot write sentences, only 'not spaced sentence', but feel free to modify my code to achieve it. Look in comments :)
 
@@ -21,6 +23,6 @@ P.S.: You cannot write sentences, only 'not spaced sentence', but feel free to m
 
 ## Information
 
-Wikipedia page: https://en.wikipedia.org/wiki/Bifid_cipher
+* Wikipedia page: https://en.wikipedia.org/wiki/Bifid_cipher
 
 You can find any further information in the main.c (comments)
