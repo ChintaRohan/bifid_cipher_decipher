@@ -9,7 +9,7 @@ Simple but effective.
 
 It's open source, you can do any changes. It's a bit dirty and messy but works :)
 
-P.S.: You cannot write sentences, only 'not spaced sentence', but feel free to modify my code to achieve it. Look on comments :)
+P.S.: You cannot write sentences, only 'not spaced sentence', but feel free to modify my code to achieve it. Look in comments :)
 
 ## Pictures
 
