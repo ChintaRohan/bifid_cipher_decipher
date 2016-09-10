@@ -17,4 +17,16 @@ vwxyz12
 0:/?-_;
 .=!><&%
 
+Complex links (9x9)
+
+abcdefghi
+jklmnopqr
+stuvwxyz1
+234567890
+ABCDEFGHI
+JKLMNOPQR
+STUVWXYZ;
+,:.-_@#!*
++][?%&/\=
+
 --- You can just copy & paste on your bifid cipher console when it asks you to "write your table", and click Enter. ---
