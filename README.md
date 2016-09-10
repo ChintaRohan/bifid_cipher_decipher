@@ -11,7 +11,8 @@ Simple but effective.
 * You can cipher/dicipher how many times you want (the decrypted message won't be deciphered easily :D )
 * You can customize your table. Give it to your closest friend and start sending decrypted messages.
 
-P.S.: You cannot write sentences, only 'not spaced sentence', but feel free to modify my code to achieve it. Look in comments :)
+P.S.: You cannot write sentences, only 'not spaced sentence', but feel free to modify my code to achieve it. Look in comments.
+P.S.S: Be careful when you use uppercase/lowercase words. The table must be compatible.
 
 ## Pictures
 
