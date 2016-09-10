@@ -17,6 +17,12 @@ P.S.: You cannot write sentences, only 'not spaced sentence', but feel free to m
 
 ![website_cipher](http://image.prntscr.com/image/c1c694edfbbb492baef86e90fcd2aec7.png)
 
+## Future updates
+
+* Auto-save in case of customized table (in a .txt file)
+* Multiple deciphering/ciphering
+* ...
+
 ## Author
 
 **Andrea Losavio** - [facebook](https://www.facebook.com/andrea.losavio.7/)
